@@ -57,34 +57,38 @@ tbody td {
 }
 
 .yellow {
-  background: #ffeaa6;
+  background: #ffe692;
 }
 
 .email {
-  background: #d9e3ec;
+  background: #cee1f1;
 }
 
 .teal {
-  background: #65c5c2;
+  background: #6ad9d6;
 }
 
 .blue {
-  background: #b5ebe6;
+  background: #8ceee6;
+}
+
+.appointment {
+  background-color: rgb(147, 193, 224);
 }
 
 .orange {
-  background: #ffc51c;
+  background: #ffcf41;
 }
 
 .lunch {
-  background: #eef1f4;
+  background: #e4e9ed;
 }
 
 .gray {
-  background: #d1d1d1;
+  background: #c4c2c2;
 }
 
 tbody td:empty {
-  background: #f7f7f7;
+  background: #edebeb;
 }
 
